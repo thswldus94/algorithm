@@ -25,3 +25,4 @@ for i in range(case):
 print(result)
 
 
+
